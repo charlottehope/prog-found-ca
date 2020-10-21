@@ -5,7 +5,7 @@ if(i % 2 === 0) {
     console.log(i);
 }
 
-// Question 2
+// Question 2 (Got help from teacher on Discord with this one)
 var innerFunction = function () {
     console.log("I am a function");
 };
